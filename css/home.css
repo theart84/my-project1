@@ -438,7 +438,6 @@ a {
 }
 .promo-product {
 	display: flex;
-	margin-bottom: 100px;
 }
 .promo-product-content {
 	box-sizing: border-box;
